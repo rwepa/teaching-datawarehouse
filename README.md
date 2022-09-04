@@ -35,3 +35,6 @@ https://github.com/rwepa/teaching-datawarehouse/blob/main/excel-consolidate-answ
 2.4 RStudio簡介
 
 2.5 RStudio下載與安裝
+
+https://github.com/rwepa/teaching-datawarehouse/blob/main/datawarehouse-02-r-rstudio.pdf
+
