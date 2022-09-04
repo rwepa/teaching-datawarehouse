@@ -4,8 +4,15 @@
 ## 第1章 資料倉儲簡介
 
 1.1 教師簡介
+
 1.2 資料倉儲簡介
+
 1.3 資料倉儲的架構
+
 1.4 線上分析處理 (OLAP)
+
 1.5 商業智慧 (Business Intelligence,  BI)
+
 1.6 機器學習 (Machine Learning)
+
+excel-consolidate-answer.xlsx []
