@@ -5,7 +5,7 @@
 
 <a href="http://portal2.ydu.edu.tw/pubinfo/GetCosOutline.asp?mCos_Id=41104410&mCos_Class=F&mSmtr=1111" target="_blank">教師授課計畫</a>
 
-[link](http://portal2.ydu.edu.tw/pubinfo/GetCosOutline.asp?mCos_Id=41104410&mCos_Class=F&mSmtr=1111){:target="_blank"}
+[link]("http://portal2.ydu.edu.tw/pubinfo/GetCosOutline.asp?mCos_Id=41104410&mCos_Class=F&mSmtr=1111"){:target="_blank"}
 
 http://portal2.ydu.edu.tw/pubinfo/GetCosOutline.asp?mCos_Id=41104410&mCos_Class=F&mSmtr=1111
 
