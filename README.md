@@ -23,3 +23,15 @@ https://github.com/rwepa/teaching-datawarehouse/blob/main/datawarehouse-01-intro
 
 ## excel-consolidate-answer.xlsx
 https://github.com/rwepa/teaching-datawarehouse/blob/main/excel-consolidate-answer.xlsx
+
+## 第2章 免費R語言,RStudio簡介,下載與安裝
+
+2.1 資料科學的心法
+
+2.2 R語言簡介
+
+2.3 R語言下載與安裝
+
+2.4 RStudio簡介
+
+2.5 RStudio下載與安裝
