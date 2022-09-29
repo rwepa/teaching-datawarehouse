@@ -34,3 +34,17 @@ https://github.com/rwepa/teaching-datawarehouse/blob/main/excel-consolidate-answ
 
 https://github.com/rwepa/teaching-datawarehouse/blob/main/datawarehouse-02-r-rstudio.pdf
 
+## 第3章 套件,函數,資料物件
+
+3.1 R使用環境
+
+3.2 套件 package
+
+3.3 輔助說明 help
+
+3.4 數學運算
+
+3.5 資料物件
+
+
+
