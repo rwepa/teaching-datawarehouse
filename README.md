@@ -50,7 +50,7 @@ https://github.com/rwepa/teaching-datawarehouse/blob/main/03-r-package_help_data
 
 https://github.com/rwepa/teaching-datawarehouse/blob/main/03-r_package_help_data.R
 
-## 第4章 開放資料的匯入,處理,繪圖
+## 第4章 開放資料的匯入
 
 https://github.com/rwepa/teaching-datawarehouse/blob/main/04-r-opendata.R
 
