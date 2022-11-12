@@ -54,4 +54,7 @@ https://github.com/rwepa/teaching-datawarehouse/blob/main/03-r_package_help_data
 
 https://github.com/rwepa/teaching-datawarehouse/blob/main/04-r-opendata.R
 
-更新中...
+## 第5章 graphics套件繪圖
+
+https://github.com/rwepa/teaching-datawarehouse/blob/main/05-r-plot.R
+##### end
