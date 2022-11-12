@@ -15,7 +15,7 @@
 
 1.6 機器學習 (Machine Learning)
 
-https://github.com/rwepa/teaching-datawarehouse/blob/main/datawarehouse-01-introduction.pdf
+https://github.com/rwepa/teaching-datawarehouse/blob/main/01-datawarehouse-introduction.pdf
 
 ## excel-consolidate-answer.xlsx
 https://github.com/rwepa/teaching-datawarehouse/blob/main/excel-consolidate-answer.xlsx
@@ -32,7 +32,7 @@ https://github.com/rwepa/teaching-datawarehouse/blob/main/excel-consolidate-answ
 
 2.5 RStudio下載與安裝
 
-https://github.com/rwepa/teaching-datawarehouse/blob/main/datawarehouse-02-r-rstudio.pdf
+https://github.com/rwepa/teaching-datawarehouse/blob/main/02-r-rstudio.pdf
 
 ## 第3章 套件,函數,資料物件
 
@@ -46,8 +46,8 @@ https://github.com/rwepa/teaching-datawarehouse/blob/main/datawarehouse-02-r-rst
 
 3.5 資料物件
 
-https://github.com/rwepa/teaching-datawarehouse/blob/main/datawarehouse-03-r-package_help_data.pdf
+https://github.com/rwepa/teaching-datawarehouse/blob/main/03-r-package_help_data.pdf
 
-https://github.com/rwepa/teaching-datawarehouse/blob/main/datawarehouse-03-r-package_help_data.R
+https://github.com/rwepa/teaching-datawarehouse/blob/main/03-r_package_help_data.R
 
 更新中...
