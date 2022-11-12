@@ -74,14 +74,6 @@ str(aq)
 head(aq)
 dim(aq) # 1000列11L行
 
-# attach, detach
-aqi # 錯誤: 找不到物件 'aqi'
-aq$aqi
-
-attach(aq)
-aqi
-detach(aq)
-
 # 篩選資資料
 aq.Banqiao<- aq[aq$sitename == "板橋", ]
 aq.Banqiao <- aq.Banqiao[order(aq.Banqiao$monitordate), ]
