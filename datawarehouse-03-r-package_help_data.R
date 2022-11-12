@@ -337,7 +337,56 @@ summary(iris)
 # 3rd Qu.:6.400 75百分位數 Third Quantile  第三四分位數 Q3
 # Max.   :7.900 最大值 Maximum
 
+# 百分位數
 # https://en.wikipedia.org/wiki/Quartile
+
+# 實作練習3 -----
+
+# 練習a.iris {datasets} 操作
+# 找出 Sepal.Length變數大於中位數的資料集
+# analysis:
+iris$Sepal.Length[iris$Sepal.Length > median(iris$Sepal.Length)]
+
+# 練習b.Cars93 {MASS}操作,資料篩選
+data(Cars93, package = "MASS")
+Cars93
+str(Cars93)
+summary(Cars93)
+# 練習列,行,條件式資料篩選
+
+# analysis:
+# 列資料篩選
+Cars93[1:3,]
+Cars93[c(2,4,6,90),]
+
+# 行資料篩選
+Cars93[1]
+Cars93[,1]
+Cars93["Manufacturer"]
+
+Cars93[2:4]
+Cars93[,2:4]
+
+head(Cars93[c(1,3,5,7)])
+head(Cars93[c("Manufacturer", "Type", "Price", "MPG.city")])
+
+# 條件式資料篩選
+Cars93[Cars93$Price > 30,]
+Cars93[Cars93$Type == "Large",]
+Cars93[Cars93$Price > 30 & Cars93$Type == "Large",] # & AND
+Cars93[Cars93$Price > 30 | Cars93$Type == "Large",] # | OR
+
+# 練習c.計算 Luggage.room 的平均值為何?
+# 將 Luggage.room 的遺漏值以平均值填補
+mean(Cars93$Luggage.room) # NA ???
+
+mean(Cars93$Luggage.room, na.rm = TRUE)
+
+sum(is.na(Cars93$Luggage.room)) # 11
+
+Cars93$Luggage.room[is.na(Cars93$Luggage.room)] <- mean(Cars93$Luggage.room, na.rm = TRUE)
+
+sum(is.na(Cars93$Luggage.room)) # 0
 
 # 參考資料 -----
 
